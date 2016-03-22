@@ -5,3 +5,7 @@ h1 {
 h3:hover {
   cursor: pointer;
 }
+
+.selected {
+  color: #22bdf0;
+}
