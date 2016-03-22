@@ -1,5 +1,5 @@
 {
-  "name": "angular2-skeleton-app",
+  "name": "angular2-js-to-do-list",
   "version": "1.0.0",
   "scripts": {
     "start": "npm run tsc:w",
