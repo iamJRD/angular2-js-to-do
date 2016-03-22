@@ -11,7 +11,7 @@ task-display:hover {
 }
 
 .task-form {
-  margin-top: 80px;
+  margin-top: 10px;
   margin-bottom: 80px;
 }
 
@@ -20,4 +20,9 @@ task-display:hover {
   margin-left: 10px;
   padding-top: 8px;
   padding-bottom: 8px;
+}
+
+.filter {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
