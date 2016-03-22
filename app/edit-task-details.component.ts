@@ -7,7 +7,7 @@ import {Task} from './task.model';
   template: `
     <div class="task-form">
       <h3>Edit description:</h3>
-      <input [(ngModel)]="task.description"/>
+      <input [(ngModel)]="task.description" class="col-md-8 input-lg task-form"/>
     </div>
   `
 })
